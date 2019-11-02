@@ -1,4 +1,4 @@
-#Chain Reaction Resource Generator
+# Chain Reaction Resource Generator
 
 ## Categories
 - revision
