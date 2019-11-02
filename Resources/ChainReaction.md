@@ -9,12 +9,20 @@
 ## Summary
 This resource generates Chain Reaction question cards from a set of question:answer pairs.
 
-Each student receives one or more cards.  The cards each have an answer (displayed prominently) and a question.  The starting card's question is read, and all the students look to their own cards for the correct answer.  The student who has that answer, states it and then asks the question on that card.  The next answer is found and so forth.
+Each student receives one or more cards.  The cards each have an answer (displayed prominently) and a question.  The starting card's question is read, and all the students look to their own cards for the correct answer.  The student who has that answer, states it and then asks the question on that card.  The next answer is found and so forth.  If the students can't agree on the answer, the unique code next to the proposed answer may be compared to that of the question.  If correct, they will match.
 
 A chain reaction question card set could be used as an in class activity, but also students could create their own question sets for group revision.
 
 ## Resource
 The code included below is from a Google Sheets macro.  Google Sheets was used because the school involved ran GSuite and so all students and staff would have access to Google Sheets.  The school did not have a programming curriculum, so this also kept the resource accessible.
+
+**Input via spreadsheet**
+
+![input](ChainReactionInput.png)
+
+**Output ready for printing**
+
+![output](ChainReactionOutput.png)
 
 ### Code
 
@@ -139,3 +147,4 @@ function setupToPrint() {
 - Question sets, with filters for generating new chain reaction sets.
 - Step by step guide illustrated guide for using this.
 - reflections on classroom use.
+- turn this into a programming task for the students - getting they invested in their own revision.
