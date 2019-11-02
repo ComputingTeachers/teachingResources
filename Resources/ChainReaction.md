@@ -122,5 +122,20 @@ function setupToPrint() {
 ```
 
 ### How to use this resource
+1. Setup a Google Sheets document.
+2. Start to record a macro (Tools| Macros), then save it and click to 'Edit.'
+1. In the code editor, delete the code of your recording, and replace with the code above.
+1. Back in the spreadsheet, set up a sheet where Column A is headed " Questions" and B is headed "Answers."
+1. Populate this sheet with questions and answers.
+1. Run the macro.  It will generate a new sheet of the same name with the prefix "Print."
+1. Make any desired formatting changes to this new sheet, then print.  The default formating is designed to print in portrait on A4, with the two columns fitted to the width of one page.
+1. Cut the printout so that each question/answer pair are on their own slip or card.  These must be shuffled before use (the answers have all been moved one down, so it is easy to proof read these before cutting them up, but if you hand them out to the class in order, they will be answering in order around the room.)
 
 ### Future Development
+- The code should be tidied and streamlined.
+- GUI options could be included for non-programming colleagues.
+- Additional formatting options.
+- A standalone version (not reliant on Google Sheets).
+- Question sets, with filters for generating new chain reaction sets.
+- Step by step guide illustrated guide for using this.
+- reflections on classroom use.
