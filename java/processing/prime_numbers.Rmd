@@ -1,0 +1,204 @@
+---
+title: "Finding Prime Numbers with Java"
+author: "MrJohnsonComputing"
+date: "11/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+A prime number is a number that is not divisible by any other number than itself and 1. Prime numbers are regarded as powerful numbers in computer science and mathematics, and they have a strong relationship with encrypting messages.
+
+As human beings, finding prime numbers can be a long, arduous, boring task that takes a lot of repetitive actions. The perfect task for us to program a computer to do for us!
+
+## Basic Algorithm Pseudocode
+
+The first step we need to consider before we write out code is what the basic algorithm will be for finding a prime number. Let us assume that the number we are testing will always be referred to as **n**.
+
+```
+IF n is divisible by any number other than 1 and itself THEN
+  it is NOT a prime number
+ELSE
+  it is a prime number
+```
+
+The algorithm above is fairly straight forward, but it is a bit wordy for code. Let us add in a boolean to start making this look more like a piece of code:
+
+```
+isPrime = true
+
+IF n is divisible by any number other than 1 and itself THEN
+  isPrime = false
+ELSE
+  isPrime = true
+```
+
+Here, we have created a boolean value and given it a name that is typical for boolean values. By calling it `isPrime` it will make our code easier to read when we start adding in checks and saying things like `IF (isPrime) THEN...`
+
+## Condition
+
+We now need to tackle our condition, how can we write `n is divisible by any number other than 1 and itself` algorithmically?
+
+Well, if we were to do this with pen an paper, then our method would be as follows:
+
+1. Take our integer, n
+
+    `n = 7`
+
+2. Create an incrementing variable, i, and assign it the value of 2 (*divding by 0 will throw an error, and if n is an integer then it will always be divisible by 1, so it is ever so slightly more efficient to start at 2*)
+
+    `i = 2`
+
+3. Divide n by i
+
+    `n / i`
+
+4. If the result of step 3 is an **integer**, then n is not a prime number, and we can stop
+
+   ```
+    IF n modulus i == 0 THEN
+   
+      isPrime = false
+      
+   
+    ENDIF
+    ```
+
+5. If the result of step 3 is a **float**, then we need to try the next number up
+
+6. Increment i by 1
+
+    ``i++``
+    
+7. If i is less than n, go to step 3
+
+8. If i is greater than or equal to n, then n is a prime number.
+
+Look at steps 2, 6 and 7, and focus on what is happening to i. Can you see any similarities with a programming concept that we are already familiar with?
+
+Here are the steps 2, 6 and 7 rewritten:
+
+> Declare and assign the integer i
+
+> Check to see whether i is less than our integer, n
+
+> Incremement i
+
+What are they talking about?
+What if we wrote this as a series of statements, one after the other?
+
+```
+int i = 2; i < n; i++
+```
+
+What is that programming concept called that uses this?
+
+## Iteration
+
+I'm hoping you were shouting **"It's a FOR Loop!"** at the end of that last section!
+
+Let us put the IF statement from step four of the last section into a loop to finish off our algorithm. I will also start using proper Java syntax, so things start to look more 'proper'.
+
+```
+int n = 7
+boolean isPrime = true
+
+for (int i = 2; i < n; i++) {
+    if (n % i == 0) {
+      isPrime = false
+    }
+}
+```
+
+You will notice that when I declare the variable `isPrime`, I set it to `true`. If our loop goes through all of it's iterations and the `if` statement is triggered at any point, it will mean that n is not a prime number. If that `if` statement isn't triggered at all through our `n` iterations, then it must mean `n` is a prime number. 
+
+
+## Algorithm Optimisations
+
+```
+int n = 7
+boolean isPrime = true
+
+for (int i = 3; i < n/2; i=i+2) {
+    if (n % i == 0) {
+      isPrime = false
+      break
+    }
+}
+```
+### Break
+
+Examining this optimised code, you will notice the use of the command word `break` inside the IF statement. Whenever you have a loop, you may want to stop it from going through all of the iterations if a certain condition is met, and for this you can use the keyword `break`. Let's take the case where:
+```
+n = 1,000,000
+```
+The first thing our program will do is divide 1,000,000 by 2 and check that the remainder is 0. 
+
+The remainder is 0, and so we know that 1,000,000 is not a prime number.
+
+Instead of carrying on through all of the numbers up to 1,000,00 anyway, we can `break` out of the loop, making our program much more efficient, because it is only doing 1 iteration rather than 1,000,000 iterations.
+
+### Pattern Recognition
+Can an even number be a prime number?
+The answer is no (except the number 2...). Any even number will be divisible by 2, which (apart from the number 2 itself) means that number will not be prime. 
+In that case, it is silly to even check even numbers, as we know they will noe be prime, and so you will notice that I have adjusted out loop to suit.
+
+`(int i = 3; i < n/2; i=i+2)`
+
+Firstly, I have started `i` at 3 rather than 2. This is so it starts on an odd number. I have then changed how we increment `i` so that we add 2 to it instead of 1, making it hop between odd numbers, ignoring the evens. 
+
+### Logic
+The last thing I have done is halved the range that `i` will go through.
+Let us work through two examples:
+
+```
+Example 1
+n = 10
+n / 3 = 3.333
+n / 5 = 2
+n / 7 = 1.42857142857
+n / 9 = 1.11111111111
+
+Example 2
+n = 20
+n / 3 = 6.66666666667
+n / 5 = 4
+n / 7 = 2.85714285714
+n / 9 = 2.22222222222
+n / 11 = 1.81818181818
+n / 13 = 1.53846153846
+n / 15 = 1.33333333333
+n / 17 = 1.17647058824
+n / 19 = 1.05263157895
+```
+
+In Example 1, when we divide 10 by 5, we get the result of 2.
+Every subsequent division, until we get to n / n slowly decreases in long floating point numbers from 2 towards 1.
+
+If `10 / 5 = 2 and 10 / 10 = 1` then `10 / 6`, `10 / 7`, `10 / 8` and `10 / 9` are all going to be decimal numbers smaller than 2 and greater than 1.
+
+Example 2 hopefully makes this clearer, where all times we are dividing `n` by a number larger than 10 (`n/2`) we are getting a result that is less than 2 and greater than 1. 
+
+This means that no number will be divisible (leaving no remainder) by any number bigger than it's half. And so in our for loop, instead of the condition being `i < n`, we can make it:
+
+```
+i < n/2
+```
+
+because anything higher than n/2 will not go into n.
+
+Let's try it with 1,000,000 to check:
+
+```
+n = 1,000,000
+n / 2 = 500,000
+
+500,001 * 1 = 500,001
+500,001 * 2 = 1,000,002
+```
+
+As you can see, by just going 1 over 500,000 (which is `n/2` in this case), multiplying it by 1 gives us less than 1,000,000 and multiplying it by 2 gives us more than 1,000,000, so we must have to use a number beginning with `1.xxx`, which is useless, as we only want to find numbers that might go into `n` completely, as integers.
