@@ -145,7 +145,7 @@ Instead of carrying on through all of the numbers up to 1,000,00 anyway, we can 
 ### Pattern Recognition
 Can an even number be a prime number?
 The answer is no (except the number 2...). Any even number will be divisible by 2, which (apart from the number 2 itself) means that number will not be prime. 
-In that case, it is silly to even check even numbers, as we know they will noe be prime, and so you will notice that I have adjusted out loop to suit.
+In that case, it is silly to even check even numbers, as we know they will not be prime, and so you will notice that I have adjusted out loop to suit.
 
 `(int i = 3; i < n/2; i=i+2)`
 
@@ -183,13 +183,13 @@ If `10 / 5 = 2 and 10 / 10 = 1` then `10 / 6`, `10 / 7`, `10 / 8` and `10 / 9` a
 
 Example 2 hopefully makes this clearer, where all times we are dividing `n` by a number larger than 10 (`n/2`) we are getting a result that is less than 2 and greater than 1. 
 
-This means that no number will be divisible (leaving no remainder) by any number bigger than it's half. And so in our for loop, instead of the condition being `i < n`, we can make it:
+This means that no number will be divisible (leaving no remainder) by any number bigger than its half. And so in our for loop, instead of the condition being `i < n`, we can make it:
 
 ```
 i < n/2
 ```
 
-because anything higher than n/2 will not go into n.
+because anything higher than `n/2` will not go into n without a remainder.
 
 Let's try it with 1,000,000 to check:
 
