@@ -48,3 +48,7 @@ At this point we have not settled on a particular renderer. Below are some examp
 * [DeckDown](http://deckdown.org/)
 * [RMarkdown](https://rmarkdown.rstudio.com/) - [Introduction Video](https://player.vimeo.com/video/178485416) 1min
 * [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)*
+* [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5ODE5MTAxMDNdfQ==
+-->
