@@ -28,6 +28,19 @@ We want to create a set of teaching resources that
 
 We can use Git and Markdown.
 
+Prerquesit Knowlege
+-------------------
+
+### Markdown
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Git
+
+
+Why Markdown/Git
+----------------
+
 If we use MarkDown/SVG to describe our content, there are system for exporting to:
 * Slideshows
     * HTML
@@ -38,6 +51,11 @@ If we use MarkDown/SVG to describe our content, there are system for exporting t
 * Websites
     * [MdMe](https://github.com/susam/mdme)
 
+There are plugins for Markdown to render
+* Mathematical symbols
+* UML
+* Musical notation (abc)
+
 
 Technologies
 ------------
@@ -46,9 +64,9 @@ At this point we have not settled on a particular renderer. Below are some examp
 
 * [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
 * [DeckDown](http://deckdown.org/)
-* [RMarkdown](https://rmarkdown.rstudio.com/) - [Introduction Video](https://player.vimeo.com/video/178485416) 1min
-* [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)*
-* [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and GitHub
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzU4ODEyMl19
--->
+* [RMarkdown](https://rmarkdown.rstudio.com/)
+    * [Introduction Video](https://player.vimeo.com/video/178485416) 1min
+    * [rmarkdown-reference](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+* [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+https://stackedit.io/
