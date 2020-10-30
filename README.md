@@ -59,14 +59,17 @@ There are plugins for Markdown to render
 
 Technologies
 ------------
-
 At this point we have not settled on a particular renderer. Below are some examples and further reading.
-
-* [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
-* [DeckDown](http://deckdown.org/)
-* [RMarkdown](https://rmarkdown.rstudio.com/)
-    * [Introduction Video](https://player.vimeo.com/video/178485416) 1min
-    * [rmarkdown-reference](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+### General Information
+* [Introduction Video](https://player.vimeo.com/video/178485416) 1min
 * [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-
-https://stackedit.io/
+* [rmarkdown-reference](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+### Online Editors
+* https://hackmd.io/
+* https://stackedit.io/
+### Online Converters
+* [DeckDown](http://deckdown.org/)
+### Local Editors
+* [RMarkdown](https://rmarkdown.rstudio.com/)
+### Further Reading
+* [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
