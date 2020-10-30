@@ -4,6 +4,7 @@ teachingResources
 A set of free-to-use resources for teaching Computing.
 Published under [CC BY](https://creativecommons.org/licenses/by/4.0) licence.
 
+[Join the Discord](https://discord.gg/fPphfq2hmS)
 
 Goal
 ----
