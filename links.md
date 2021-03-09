@@ -4,9 +4,13 @@ Resources
 Teaching Resources
 ------------------
 
+* [edu.google.com - exploring-computational-thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
+    * [Exploring Computational Thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
+        * [Program-Python: Theme Park Ride](https://learn.iste.org/d2l/lor/manageLO/overview.d2l?lastPage=&ou=6606&isPopup=false&loc=0&title=Program-Python%3A%20Theme%20Park%20Ride&url=https%3A//learn.iste.org/d2l/lor/viewer/view.d2l%3Fou%3D6606%26loIdentId%3D243&lorType=1&loId=313&loIdentId=243&moduleId=)
+            * Algebra | Grades 6-12 | This Python program helps students conceptualize the following word problem: There are 90 people in line at a theme park ride. Every 5 minutes, 40 people get on the ride and 63 join the line. Estimate how long it would take for 600 people to be in line.
 * [Flowgorithum](http://www.flowgorithm.org/)
     * free beginner's programming language that is based on simple graphical flowcharts. 
-    * Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office). 
+    * Flowgorithm can interactively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic .NET, and VBA (used in Office).
 * [Crash course computer science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 * [Oak National Academy - The National Academy](https://www.thenational.academy/)
     * [Key Stage 3, Computing Units](https://classroom.thenational.academy/subjects-by-key-stage/key-stage-3/subjects/computing)
@@ -22,7 +26,7 @@ Teaching Resources
         * [Computer Science Principles - Course](https://studio.code.org/courses/csp-2020) for K12 CS
 * [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
     * [WikiBooks: A-level Computing/AQA 2009 spec](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA)
-* [Diagnostic Questions: Project Quantum - Computer Science Questions bank](https://diagnosticquestions.com/quantum)
+* [Diagnostic Questions: Project Quantum - Computer Science Questions bank from bcs](https://diagnosticquestions.com/quantum)
 * [Craig and David: Teachers](https://craigndave.org/)
     * [Craig and David: Students](https://student.craigndave.org/)
     * [SmartRevise](https://smartrevise.craigndave.org/) question bank system
@@ -56,6 +60,8 @@ Teaching Resources
         * with cool Computing activities
 * [khan academy](https://www.khanacademy.org/computing)
     * [Unit: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+    * [khan-dl](https://github.com/rand-net/khan-dl) 
+        * A python script to download courses from Khan Academy using youtube-dl and beautifulsoup4.
 * [CS Unplugged](http://csunplugged.org/)
     * [classic resources](https://classic.csunplugged.org/)
 * [Teaching London Computing](https://teachinglondoncomputing.org/)
@@ -138,6 +144,11 @@ Teaching Resources
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
+* [educative.io](https://www.educative.io/)
+    * Learn in-demand tech skills in half the time
+        * Courses for new developers
+        * Courses for experienced developers
+        * Courses for interview preparation
 * [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
 * [MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
     * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
@@ -195,6 +206,19 @@ Links to other MD documents
 * [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 * [YouTube: Computerphile](https://www.youtube.com/user/Computerphile/videos)
 
+* [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
+* [Hacker Earth - Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
+    * Lots of algorithms, visualisations and live coding
+
+* Harvard University [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - An introduction to the intellectual enterprises of computer science and the art of programming.
+    * The budget! Every lecture is a stage show with top tier content and editing.
+
+SEND
+----
+
+* [github.com/CompEng0001/CodingandDyslexia](https://github.com/CompEng0001/CodingandDyslexia)
+    *  collate coding support for those who have neurodiversity (dyslexia, ADHD etc)
+
 
 Pedagogy
 --------
@@ -208,13 +232,55 @@ Pedagogy
     * [publications](https://tpea.ac.uk/publications/)
     * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
 
+Organisations
+------------
+
+* [International Society for Technology in Education (ISTE)](https://www.iste.org/)
+* 
+* [The Pixel Gang: Bromley](https://thepixelgang.co.uk/)
+* [Schools Computing](https://schoolscomputing.co.uk/)
+    * Conferences and Training
+
+Tools
+-----
+
+* Microsoft [CodeTour](https://code.visualstudio.com/learn/educators/codetour?utm_source=VsCode&utm_medium=ReleaseNotes&utm_campaign=652cb4ab-54f3-43f5-ace9-7c098fda09d1&utm_content=1)
+    * [vscode plugin](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+    * Create notes bound to a git commit ref
+        * create prompts, guides, examples
+        * Export to plain json to be played back
+
 Research
 --------
 
+* [LeTech Research Group - Learning + Technology](https://research.cs.aalto.fi/LeTech/) [github](https://github.com/Aalto-LeTech)
+    * A very interesting research team
+    * [UUhistle.org](http://www.uuhistle.org/)
+        * a tool for visually and interactively exploring the execution-time behavior of computer programs. Through UUhistle's graphics, novice programmers can improve their code-tracing skills and understanding of programming concepts and programming-language constructs.
+        * depricated
+        * [Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education](https://www.youtube.com/watch?v=Q3T_QLRWb78) youtube demo 5min
+    * [pythontutor.com](http://pythontutor.com/)
+        * VISUALIZE CODE EXECUTION - Learn Python, Java, C, C++, JavaScript, and Ruby
 * [csedresearch.org](http://csedresearch.org/)
     * Search current/past CS research papers?
         * good category selection
 * [Raspberry Pi Foundation: Computing education research seminars: previous seminars ](https://www.raspberrypi.org/computing-education-research-online-seminars/previous-seminars/)
+
+Competitions/Gathering/Social
+------------
+
+* [battlesnake](https://play.battlesnake.com/)
+    * Write code to play snake against other code
+    * [get-started](https://docs.battlesnake.com/guides/getting-started)
+
+
+ICT & Design
+------------
+
+* [canva.com](https://www.canva.com/create/)
+    * Design anything. Publish anywhere.
+    * Use Canva’s drag-and-drop feature and professional layouts to design consistently stunning graphics. 
+
 
 Unsorted
 ========
