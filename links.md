@@ -4,6 +4,8 @@ Resources
 Teaching Resources
 ------------------
 
+* [CodeHS](https://codehs.com/) - Code Highschool
+    * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
 * [edu.google.com - exploring-computational-thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
     * [Exploring Computational Thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
         * [Program-Python: Theme Park Ride](https://learn.iste.org/d2l/lor/manageLO/overview.d2l?lastPage=&ou=6606&isPopup=false&loc=0&title=Program-Python%3A%20Theme%20Park%20Ride&url=https%3A//learn.iste.org/d2l/lor/viewer/view.d2l%3Fou%3D6606%26loIdentId%3D243&lorType=1&loId=313&loIdentId=243&moduleId=)
@@ -70,6 +72,7 @@ Teaching Resources
 * [Exploring Computer Science](http://www.exploringcs.org/)
     * a year-long, research-based, high school intro-level computer science curriculum and teacher professional development program that focuses on broadening participation in computing.
     * CS Concepts, Inquiry, Equality
+* [BBC Bitesize: Computing](https://www.bbc.com/bitesize/subjects/z34k7ty)
 * [Girls Who Code](https://girlswhocode.com/en-uk)
     * [Code At Home Activities](https://girlswhocode.com/programs/code-at-home)
         * Free computer science activities for students, educators, and parents
@@ -97,6 +100,7 @@ Teaching Resources
 * [Code Combat](https://codecombat.com/)
     * Videogame progression of challenges. Beautiful artwork. Very pro.
 * [101computing.net](https://www.101computing.net/)
+    * Python, Scratch, Javascript projects and live web demonstrations
     * [Little Man Computer (LMC) CPU Simulator](https://www.101computing.net/LMC/)
     * [youtube channel](https://www.youtube.com/c/101Computing/videos)
 * [withcode.uk](https://withcode.uk) - One of the UK's top computing teachers
@@ -135,6 +139,8 @@ Teaching Resources
     * examples (kind of like snippets from my cheat sheet)
         * [snippet examples](https://www.w3schools.com/python/python_examples.asp) live in browser
     * [UTF-8 C0 Controls and Basic Latin](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp)
+* [tutorialsteacher.com](https://www.tutorialsteacher.com/)
+    * 
 * [schoolcoders.com](http://www.schoolcoders.com/)
     * gcse/a-level notes
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
@@ -181,6 +187,7 @@ Teaching Resources
     * > Originally it was formed as a response to the realisation that short one-day training sessions for teachers about using computers in schools and classrooms was not enough. professional development to continue sharing policy and practice in the emerging field of computers in teaching and learning
 * [CodeIt](http://code-it.co.uk/) Phil Bagge [@baggiepr](https://twitter.com/baggiepr)
     * KS1 to KS3 expert
+    * [Code-it 'Gold Planning'](https://code-it.co.uk/gold/) - KS2 - couple be applied to ks3
 * [CS For All Teachers](https://www.csforallteachers.org/)
 * [MakeyMakey](https://makeymakey.com/) - make controllers out of anything
 * [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/)
@@ -189,6 +196,19 @@ Teaching Resources
     * Differentiation Devisor
     * AfL Toolkit
         * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
+* [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+    * Pokemon gen1 data (csv) mined with python
+* [datacamp.com](https://www.datacamp.com/) - Build data skills online
+    * Online lessons, processing tools, data, interactive assessments
+    * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
+* [learndigital.withgoogle.com](https://learndigital.withgoogle.com/) - Gain today's most in-demand skills
+    * Gain the skills you need, whether you're growing your business, starting a career, or just want to try something new.
+        * Data and Tech
+        * Digital Marketing
+        * Career Development
+    * [Fundamentals of digital marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
+
+
 
 Links to other MD documents
 * [Microbit](../physicalProgramming/microbit)
@@ -203,6 +223,10 @@ Links to other MD documents
 * [logic.ly/demo](https://logic.ly/demo) full adder and ripple counter in browser
 * [simulator.io](https://simulator.io) Build and simulate logic circuits in browser
 
+* [NetSimK](http://netsimk.com/) - The ultimate aid to teaching and learning Cisco™ Routers
+    * Each student works individually, with as many devices as required. 
+
+
 * [Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 * [YouTube: Computerphile](https://www.youtube.com/user/Computerphile/videos)
 
@@ -212,6 +236,27 @@ Links to other MD documents
 
 * Harvard University [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - An introduction to the intellectual enterprises of computer science and the art of programming.
     * The budget! Every lecture is a stage show with top tier content and editing.
+
+Computing Course Online Class Systems
+-------------------------------------
+
+* [Mimir Classroom](https://www.mimirhq.com/) Scale and automate your Computer Science classroom.
+    * repl.it + assignments + automated tests + plagiarism detection + student analytics
+    * [video demo](https://www.mimirhq.com/classroom/demo_video)
+* [piazza.com](https://piazza.com/) - Save time and help students learn using the power of community
+    * Questions and posts needing immediate action are highlighted
+    * Instructors endorse answers to keep the class on track
+    * Anonymous posting encourages every student to participate
+    * Highly customizable online polls
+    * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
+
+
+Passed Papers
+-------------
+
+* [theallpapers.com](https://www.theallpapers.com/)
+* [revisionworld.com ocr pasted papers](https://revisionworld.com/gcse-revision/ict/past-papers/ocr-gcse-computer-science-past-papers)
+* [GCSE Computer Science Past Papers](https://mathsmadeeasy.co.uk/gcse-computer-science/gcse-computer-science-past-papers/)
 
 SEND
 ----
@@ -261,6 +306,7 @@ Research
         * [Jsvee & Kelmu: Creating and Tailoring Program Animations for Computing Education](https://www.youtube.com/watch?v=Q3T_QLRWb78) youtube demo 5min
     * [pythontutor.com](http://pythontutor.com/)
         * VISUALIZE CODE EXECUTION - Learn Python, Java, C, C++, JavaScript, and Ruby
+        * Build graphviz from code (Diogo Soares)
 * [csedresearch.org](http://csedresearch.org/)
     * Search current/past CS research papers?
         * good category selection
@@ -318,6 +364,12 @@ Starters
 
 * [lumenlearning.com: Educational Psychology](https://courses.lumenlearning.com/educationalpsychology/)
     * Complete teacher course - clear articles - lots of references
+
+
+* [Course Hero](https://www.coursehero.com/)
+    * Tutor
+    * Subscribe by uploading course notes - or pay $10 per month
+    * [coursehero.com/subjects/computer-science/](https://www.coursehero.com/subjects/computer-science/)
 
 
 Research?
