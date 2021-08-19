@@ -4,6 +4,34 @@ Resources
 Teaching Resources
 ------------------
 
+* [teachwithict.com](https://www.teachwithict.com/) @clcsimon Simon Johnson
+    * Author of [100 Outstanding Computing Lessons](https://www.amazon.co.uk/100-Ideas-Secondary-Teachers-Outstanding/dp/1472984404/)
+    * [21 things every computing teacher should try!](https://www.teachwithict.com/21thingscs.html)
+    * [Teaching Computing](https://www.teachwithict.com/computing.html)
+        * SOW, Advice Blog, Theory, Resources
+* [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
+    * Teach a computer to play a game
+    * Scratch, Python, Appinventor
+    * [worksheets](https://machinelearningforkids.co.uk/#!/worksheets)
+        * Use webcam to look at hands (rock, paper, scissors) and use Scratch for logic
+    * Create models and pre-trained models
+    * [Dale Lane](https://dalelane.co.uk/blog/?tag=mlforkids-tech) creator, sponsored by IBM
+    * [book](https://www.amazon.co.uk/Machine-Learning-Kids-Project-Based-Introduction/dp/1718500564/) - project based introduction to artificial intelligence
+* [epicpython.com](https://epicpython.com/)
+    * A better way to learn Python. A fun exercise heavy approach to learning modern Python from scratch.
+    * Interactive activities, quiz's, instant feedback
+    * In browser
+* [RoboMind Academy](https://www.robomindacademy.com/)
+    * primary level browser robot sequence
+* [TLCS](https://tlcs.csited.be/) (Teach and Learn Computer Science) database of CS resources categorised
+    * [TLCS: A Digital Library with Resources to Teach and Learn Computer Science](https://ioinformatics.org/journal/v13_2019_3_20.pdf)
+* Competitions
+    * [bebras.org](https://www.bebras.org/)
+        * Bebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.
+        * [UK Bebras](https://challenge.bebras.uk/) - Algorithmic Code Challenges for primary and secondary
+            * National competition
+    * [British Informatics Olympiad](https://www.olympiad.org.uk/) - national computing competition for schools and colleges. 
+    * [International Olympiad in Informatics](https://ioinformatics.org/) - international
 * [CodeHS](https://codehs.com/) - Code Highschool
     * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
 * [edu.google.com - exploring-computational-thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
@@ -162,6 +190,10 @@ Teaching Resources
     * Maths and some computing visual guides
 * [Future Learn](https://www.futurelearn.com/)
     * TODO: uni courses? online free?
+    * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) Courses
+        * [Improving Computing Classroom Practice Through Action Research](https://www.futurelearn.com/courses/improving-computing-classroom-practice-through-action-research)
+            * Learn how to run your own action research project to improve the computing pedagogy and practices in your classroom.
+        * [Programming Pedagogy in Secondary Schools: Inspiring Computing Teaching](https://www.futurelearn.com/courses/secondary-programming-pedagogy)
 * [MOOC.fi](https://www.mooc.fi/en) offered by University of Helsinki's Department of Computer Science
     * Ethics of AI
     * Full stack
@@ -240,6 +272,8 @@ Links to other MD documents
 Computing Course Online Class Systems
 -------------------------------------
 
+* [repl.it]() Education
+    * Video: [Tutorial for Teachers - How to Use Teams for Education on Replit](https://www.youtube.com/watch?v=hCgGzIUJtY4) 20min introduction
 * [Mimir Classroom](https://www.mimirhq.com/) Scale and automate your Computer Science classroom.
     * repl.it + assignments + automated tests + plagiarism detection + student analytics
     * [video demo](https://www.mimirhq.com/classroom/demo_video)
