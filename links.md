@@ -410,3 +410,9 @@ Research?
 --------
 
 [ResearchGate Search Computer Science Education](https://www.researchgate.net/search/publication?q=%28%22Teacher+Education%22+OR+%22Teacher+Training%22%29+AND+%28%22Computing%22+OR+%22Computer+Science%22%29) - naff because no date sort and poor search tooling
+
+
+
+---
+
+* [Computer Science To Go (CS2Go): Developing a course to introduce and teach Computer Science and Computational Thinking to secondary school students ](http://mural.maynoothuniversity.ie/11015/) James Lockwood 2019
