@@ -1,8 +1,19 @@
 Resources
 =========
 
-Teaching Resources
-------------------
+General Teaching
+----------------
+
+* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/)
+    * Starter Generator
+    * Plenary Producer
+    * Differentiation Devisor
+    * AfL Toolkit
+        * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
+
+
+Teaching Computing Resources
+----------------------------
 
 * [teachwithict.com](https://www.teachwithict.com/) @clcsimon Simon Johnson
     * Author of [100 Outstanding Computing Lessons](https://www.amazon.co.uk/100-Ideas-Secondary-Teachers-Outstanding/dp/1472984404/)
@@ -25,13 +36,6 @@ Teaching Resources
     * primary level browser robot sequence
 * [TLCS](https://tlcs.csited.be/) (Teach and Learn Computer Science) database of CS resources categorised
     * [TLCS: A Digital Library with Resources to Teach and Learn Computer Science](https://ioinformatics.org/journal/v13_2019_3_20.pdf)
-* Competitions
-    * [bebras.org](https://www.bebras.org/)
-        * Bebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.
-        * [UK Bebras](https://challenge.bebras.uk/) - Algorithmic Code Challenges for primary and secondary
-            * National competition
-    * [British Informatics Olympiad](https://www.olympiad.org.uk/) - national computing competition for schools and colleges. 
-    * [International Olympiad in Informatics](https://ioinformatics.org/) - international
 * [CodeHS](https://codehs.com/) - Code Highschool
     * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
 * [edu.google.com - exploring-computational-thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
@@ -91,7 +95,7 @@ Teaching Resources
 * [khan academy](https://www.khanacademy.org/computing)
     * [Unit: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
     * [khan-dl](https://github.com/rand-net/khan-dl) 
-        * A python script to download courses from Khan Academy using youtube-dl and beautifulsoup4.
+        * A python script to download courses from Khan Academy using youtube-dl and beautifulsoup4
 * [CS Unplugged](http://csunplugged.org/)
     * [classic resources](https://classic.csunplugged.org/)
 * [Teaching London Computing](https://teachinglondoncomputing.org/)
@@ -125,6 +129,7 @@ Teaching Resources
     * Coding Challenges, AI, Algorithmic Art, ServerSide
     * [Youtube channel](https://www.youtube.com/c/TheCodingTrain/about) YouTube video channel
         * [Searching in PI](https://www.youtube.com/watch?v=MEdpRYyjz_0) - JS client / server project
+        * [Coding Challenge #158: Shape Classifier Neural Network with ml5.js](https://www.youtube.com/watch?v=3MqJzMvHE3E)
 * [Code Combat](https://codecombat.com/)
     * Videogame progression of challenges. Beautiful artwork. Very pro.
 * [101computing.net](https://www.101computing.net/)
@@ -167,9 +172,9 @@ Teaching Resources
     * examples (kind of like snippets from my cheat sheet)
         * [snippet examples](https://www.w3schools.com/python/python_examples.asp) live in browser
     * [UTF-8 C0 Controls and Basic Latin](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp)
-* [tutorialsteacher.com](https://www.tutorialsteacher.com/)
+* [TutorialsTeacher.com](https://www.tutorialsteacher.com/)
     * 
-* [schoolcoders.com](http://www.schoolcoders.com/)
+* [SchoolCoders.com](http://www.schoolcoders.com/)
     * gcse/a-level notes
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 10min video
     * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
@@ -178,27 +183,8 @@ Teaching Resources
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
-* [educative.io](https://www.educative.io/)
-    * Learn in-demand tech skills in half the time
-        * Courses for new developers
-        * Courses for experienced developers
-        * Courses for interview preparation
-* [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
-* [MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
-    * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 * [Better Explained](https://betterexplained.com/)
     * Maths and some computing visual guides
-* [Future Learn](https://www.futurelearn.com/)
-    * TODO: uni courses? online free?
-    * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) Courses
-        * [Improving Computing Classroom Practice Through Action Research](https://www.futurelearn.com/courses/improving-computing-classroom-practice-through-action-research)
-            * Learn how to run your own action research project to improve the computing pedagogy and practices in your classroom.
-        * [Programming Pedagogy in Secondary Schools: Inspiring Computing Teaching](https://www.futurelearn.com/courses/secondary-programming-pedagogy)
-* [MOOC.fi](https://www.mooc.fi/en) offered by University of Helsinki's Department of Computer Science
-    * Ethics of AI
-    * Full stack
-    * Haskell
-    * Data Analysis with python
 * [github.com/microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
     * 12 week curriculum
     * Beautiful hand drawn summary diagrams
@@ -214,31 +200,44 @@ Teaching Resources
     * [Accessibility fundamentals](https://docs.microsoft.com/en-gb/learn/paths/accessibility-fundamentals/) 2.5 hours
 * [Magpie Education](https://magpie.education/) - EdTech Resources & Curriculum Tools to Inspire STEM Learning through the Joy of Creating.
     * [Lesson Resources](https://magpie.education/resources/)
-* [The MirandaNet Fellowship](https://mirandanet.ac.uk/)
-    * > a professional education community that was founded in 1992
-    * > Originally it was formed as a response to the realisation that short one-day training sessions for teachers about using computers in schools and classrooms was not enough. professional development to continue sharing policy and practice in the emerging field of computers in teaching and learning
 * [CodeIt](http://code-it.co.uk/) Phil Bagge [@baggiepr](https://twitter.com/baggiepr)
     * KS1 to KS3 expert
     * [Code-it 'Gold Planning'](https://code-it.co.uk/gold/) - KS2 - couple be applied to ks3
 * [CS For All Teachers](https://www.csforallteachers.org/)
 * [MakeyMakey](https://makeymakey.com/) - make controllers out of anything
-* [Mike Gershon - Resources for teachers](https://mikegershon.com/resources/)
-    * Starter Generator
-    * Plenary Producer
-    * Differentiation Devisor
-    * AfL Toolkit
-        * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
 * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
     * Pokemon gen1 data (csv) mined with python
-* [datacamp.com](https://www.datacamp.com/) - Build data skills online
+* [DataCamp.com](https://www.datacamp.com/) - Build data skills online
     * Online lessons, processing tools, data, interactive assessments
     * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
+
+
+University
+----------
+
+* [MIT Open Courseware - computer science](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
+    * [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
+* [MOOC.fi](https://www.mooc.fi/en) offered by University of Helsinki's Department of Computer Science
+    * Ethics of AI
+    * Full stack
+    * Haskell
+    * Data Analysis with python
+
+
+Professional
+------------
+
 * [learndigital.withgoogle.com](https://learndigital.withgoogle.com/) - Gain today's most in-demand skills
     * Gain the skills you need, whether you're growing your business, starting a career, or just want to try something new.
         * Data and Tech
         * Digital Marketing
         * Career Development
     * [Fundamentals of digital marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
+* [educative.io](https://www.educative.io/)
+    * Learn in-demand tech skills in half the time
+        * Courses for new developers
+        * Courses for experienced developers
+        * Courses for interview preparation
 
 
 
@@ -272,7 +271,7 @@ Links to other MD documents
 Computing Course Online Class Systems
 -------------------------------------
 
-* [repl.it]() Education
+* [repl.it](https://replit.com/) Education
     * Video: [Tutorial for Teachers - How to Use Teams for Education on Replit](https://www.youtube.com/watch?v=hCgGzIUJtY4) 20min introduction
 * [Mimir Classroom](https://www.mimirhq.com/) Scale and automate your Computer Science classroom.
     * repl.it + assignments + automated tests + plagiarism detection + student analytics
@@ -295,6 +294,8 @@ Passed Papers
 SEND
 ----
 
+* [SEND Computing](http://sendcomputing.info/)
+    * Computing resources and ideas for teachers of students with special educational needs and disabilities.
 * [github.com/CompEng0001/CodingandDyslexia](https://github.com/CompEng0001/CodingandDyslexia)
     *  collate coding support for those who have neurodiversity (dyslexia, ADHD etc)
 
@@ -310,6 +311,14 @@ Pedagogy
 * [TPEA: Technology Pedagogy and Education Association](https://tpea.ac.uk/)
     * [publications](https://tpea.ac.uk/publications/)
     * [old site - ITTE: Information Technology in Teacher Education](http://itte.org.uk)
+* [Future Learn](https://www.futurelearn.com/)
+    * TODO: uni courses? online free?
+    * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) Courses
+        * [Improving Computing Classroom Practice Through Action Research](https://www.futurelearn.com/courses/improving-computing-classroom-practice-through-action-research)
+            * Learn how to run your own action research project to improve the computing pedagogy and practices in your classroom.
+        * [Programming Pedagogy in Secondary Schools: Inspiring Computing Teaching](https://www.futurelearn.com/courses/secondary-programming-pedagogy)
+* [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
+
 
 Organisations
 ------------
@@ -319,6 +328,10 @@ Organisations
 * [The Pixel Gang: Bromley](https://thepixelgang.co.uk/)
 * [Schools Computing](https://schoolscomputing.co.uk/)
     * Conferences and Training
+* [The MirandaNet Fellowship](https://mirandanet.ac.uk/)
+    * > a professional education community that was founded in 1992
+    * > Originally it was formed as a response to the realisation that short one-day training sessions for teachers about using computers in schools and classrooms was not enough. professional development to continue sharing policy and practice in the emerging field of computers in teaching and learning
+
 
 Tools
 -----
@@ -349,9 +362,19 @@ Research
 Competitions/Gathering/Social
 ------------
 
-* [battlesnake](https://play.battlesnake.com/)
-    * Write code to play snake against other code
-    * [get-started](https://docs.battlesnake.com/guides/getting-started)
+* [bebras.org](https://www.bebras.org/)
+    * Bebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.
+    * [UK Bebras](https://challenge.bebras.uk/) - Algorithmic Code Challenges for primary and secondary
+        * National competition
+* [British Informatics Olympiad](https://www.olympiad.org.uk/)
+    * National computing competition for schools and colleges. 
+* [International Olympiad in Informatics](https://ioinformatics.org/)
+    * Lots of journals and papers
+
+* Social Events
+    * [battlesnake](https://play.battlesnake.com/)
+        * Write code to play snake against other code
+        * [get-started](https://docs.battlesnake.com/guides/getting-started)
 
 
 ICT & Design
