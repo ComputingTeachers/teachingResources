@@ -20,14 +20,42 @@ Teaching Computing Resources
     * [21 things every computing teacher should try!](https://www.teachwithict.com/21thingscs.html)
     * [Teaching Computing](https://www.teachwithict.com/computing.html)
         * SOW, Advice Blog, Theory, Resources
-* [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
-    * Teach a computer to play a game
-    * Scratch, Python, Appinventor
-    * [worksheets](https://machinelearningforkids.co.uk/#!/worksheets)
-        * Use webcam to look at hands (rock, paper, scissors) and use Scratch for logic
-    * Create models and pre-trained models
-    * [Dale Lane](https://dalelane.co.uk/blog/?tag=mlforkids-tech) creator, sponsored by IBM
-    * [book](https://www.amazon.co.uk/Machine-Learning-Kids-Project-Based-Introduction/dp/1718500564/) - project based introduction to artificial intelligence
+* [Data Education in Schools](https://dataschools.education/)
+    * The project will be developing an interdisciplinary data education curriculum for Scotland and a set of engaging real world data science teaching materials for primary and secondary school teachers.
+    * Using data cross curricular
+* Algorithm Societal Impact
+    * [algorithmliteracy.org](https://www.algorithmliteracy.org/) - Consider the effect algorithms have on your own life.
+        * Screen time
+        * Circle of privacy
+        * Preference Bubble
+    * [The Most Likely Machine](https://www.artefactgroup.com/case-studies/most-likely-machine/) - Helping children develop algorithmic literacy
+        * A visual hands-on learning module to get algorithm savvy
+* AI
+    * [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
+        * Teach a computer to play a game
+        * Scratch, Python, Appinventor
+        * [worksheets](https://machinelearningforkids.co.uk/#!/worksheets)
+            * Use webcam to look at hands (rock, paper, scissors) and use Scratch for logic
+        * Create models and pre-trained models
+        * [Dale Lane](https://dalelane.co.uk/blog/?tag=mlforkids-tech) creator, sponsored by IBM
+        * [book](https://www.amazon.co.uk/Machine-Learning-Kids-Project-Based-Introduction/dp/1718500564/) - project based introduction to artificial intelligence
+    * [Dancing with AI - Designing Interactive AI Systems](https://dancingwithai.media.mit.edu/) - Scratch blocks with curriculum
+    * [Scratch Lab - Face Sensing](https://lab.scratch.mit.edu/face/)
+    * [Coded Bias - Documentary](https://www.codedbias.com/)
+        * [IMDB](https://www.imdb.com/title/tt11394170/)
+    * [IBM AI Education](https://www.mindspark.org/ibm-ai) - AI Webinars
+        * Diversity
+        * Robotics
+        * Ethics
+        * Careers
+        * machine learning
+    * [ai4k12.org](https://ai4k12.org/) - The Artificial Intelligence (AI) for K-12 initiative
+    * MIT Media Lab - [AI + Ethics Curriculum for Middle School](https://www.media.mit.edu/projects/ai-ethics-for-middle-school/overview/)
+    * [Best K-12 Resources to Teach AI Ethics](https://medium.com/fair-bytes/best-resources-to-teach-ai-ethics-in-the-k-12-classroom-a801e00839d5) - Curricula, projects, and even fiction books to empower students to learn about AI ethics
+    * [Middle School AI](https://raise.mit.edu/daily/index.html)
+        * Impressively deep set of modules - suitable for concepts even up to ks5!
+    * [steamlabs.ca/ai-programs](https://steamlabs.ca/ai-programs/)
+        * Unplugged - [Predict a Pie with a Neural Network](https://steamlabs.ca/ai-programs/predict-a-pie/)
 * [epicpython.com](https://epicpython.com/)
     * A better way to learn Python. A fun exercise heavy approach to learning modern Python from scratch.
     * Interactive activities, quiz's, instant feedback
@@ -210,7 +238,8 @@ Teaching Computing Resources
 * [DataCamp.com](https://www.datacamp.com/) - Build data skills online
     * Online lessons, processing tools, data, interactive assessments
     * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
-
+* Primary
+    * [csiselementary.org](https://www.csiselementary.org/) K-5
 
 University
 ----------
