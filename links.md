@@ -241,6 +241,21 @@ Teaching Computing Resources
 * Primary
     * [csiselementary.org](https://www.csiselementary.org/) K-5
 
+Online Safety
+------------
+
+* Gov.uk UK Council for Internet Safety - [Education for a Connected World](https://www.gov.uk/government/publications/education-for-a-connected-world) 2020
+    * A framework to equip children and young people for digital life
+* [BreckFoundation.org](https://www.breckfoundation.org/)
+    * The Breck Foundation campaigns for a safer internet for all children and young people – whether they are gaming, communicating on social media, using apps or taking part in any other internet-based activity.
+* [First to a Million Videos](https://www.thinkuknow.co.uk/professionals/resources/first-to-a-million/)
+    * Interactive video about digital permanence a bunch of kids race to 1million views
+* [Project Evolve](https://projectevolve.co.uk/)
+    * Apparently brilliant resources, but needs a signup
+* [HowSecureIsMyPassword.net](https://howsecureismypassword.net/)
+* [HaveIBeenPwned.com](https://haveibeenpwned.com/)
+
+
 University
 ----------
 
