@@ -15,6 +15,17 @@ General Teaching
 Teaching Computing Resources
 ----------------------------
 
+* [csteachingtips.org](https://www.csteachingtips.org/)
+    * Posters for teaching CS
+    * Bias
+    * Inclusivity
+    * Lecturing
+    * Help seeking
+    * Pair Programming
+    * Assessment
+    * Scratch
+    * Recruitment
+    * CS Lab rules
 * [teachwithict.com](https://www.teachwithict.com/) @clcsimon Simon Johnson
     * Author of [100 Outstanding Computing Lessons](https://www.amazon.co.uk/100-Ideas-Secondary-Teachers-Outstanding/dp/1472984404/)
     * [21 things every computing teacher should try!](https://www.teachwithict.com/21thingscs.html)
@@ -23,6 +34,8 @@ Teaching Computing Resources
 * [Data Education in Schools](https://dataschools.education/)
     * The project will be developing an interdisciplinary data education curriculum for Scotland and a set of engaging real world data science teaching materials for primary and secondary school teachers.
     * Using data cross curricular
+* [computerscienceuk.com](https://computerscienceuk.com/)
+    * behind a paywall
 * Algorithm Societal Impact
     * [algorithmliteracy.org](https://www.algorithmliteracy.org/) - Consider the effect algorithms have on your own life.
         * Screen time
@@ -414,6 +427,8 @@ Competitions/Gathering/Social
     * National computing competition for schools and colleges. 
 * [International Olympiad in Informatics](https://ioinformatics.org/)
     * Lots of journals and papers
+* [showcode.io/VarsityCode](https://www.showcode.io/varsitycode/)
+    * Represent your university in our head-to-head student coding competition
 
 * Social Events
     * [battlesnake](https://play.battlesnake.com/)
