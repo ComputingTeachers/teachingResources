@@ -15,6 +15,7 @@ General Teaching
 Teaching Computing Resources
 ----------------------------
 
+* [the.computing.cafe](https://the.computing.cafe/) - learn computing - @compinsch Mr Mills
 * [csteachingtips.org](https://www.csteachingtips.org/)
     * Posters for teaching CS
     * Bias
@@ -359,6 +360,9 @@ SEND
 
 Pedagogy
 --------
+* [helloworld.raspberrypi.org - magazine](https://helloworld.raspberrypi.org/)
+    * FREE phsyical or digital magazine
+    * [Issue 0](https://helloworld.raspberrypi.org/issues/0) free PDF is a masterpiece of pedagogy!
 * NCCE - [teachcomputing.org/pedagogy](https://teachcomputing.org/pedagogy)
     * [NCCE podcast](https://blog.teachcomputing.org/tag/podcast/)
     * [Pedagogy Quick Reads](https://blog.teachcomputing.org/tag/quickread/)
