@@ -1,6 +1,8 @@
 Resources
 =========
 
+An unsorted tidal-wave of links
+
 General Teaching
 ----------------
 
@@ -15,6 +17,29 @@ General Teaching
 Teaching Computing Resources
 ----------------------------
 
+* [raspberrypi.org](https://raspberrypi.org/)
+    * Teachers
+        * [TeachComputing.org](https://teachcomputing.org/) Previously NCCE
+            * [KS3/KS4 Resources](https://teachcomputing.org/curriculum)
+                * [Tweet: Jennies lesson](https://twitter.com/Mrs_G33k/status/1316778655721324550)
+                * [ks4, remote](https://teachcomputing.org/courses?level=Key+stage+4&location=Remote&topic=Programming&certificate=#filter-results) search by tags
+                    * [year 8 Mobile app development](https://teachcomputing.org/curriculum/key-stage-3/mobile-app-development)
+        * [projects.raspberrypi.org](https://projects.raspberrypi.org/)
+                * 200+ projects for scratch, python, microbit, 3dprinting, mobileapps - amazing and creative
+        * [isaac Computer Science](https://isaaccomputerscience.org/) - A-Level (sponsored by RaspberyPi foundation + NCCE +BCS)
+            * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
+            * https://isaaccomputerscience.org/pages/workbooks_2020
+            * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
+            * [All Topics](https://isaaccomputerscience.org/topics)
+            * Assignments online? (need to sign up and investigate)
+            * [Suggested teaching order](https://isaaccomputerscience.org/teaching_order)
+        * Research
+            * [research/publications](https://www.raspberrypi.org/research/publications)
+    * Learners
+        * http://www.codeclub.org.uk/
+        * http://coderdojo.com/
+        * https://codeclubworld.org/
+            * Gamerfied learning program (mario world esq graphics)
 * [the.computing.cafe](https://the.computing.cafe/) - learn computing - @compinsch Mr Mills
 * [csteachingtips.org](https://www.csteachingtips.org/)
     * Posters for teaching CS
@@ -107,19 +132,8 @@ Teaching Computing Resources
     * [Craig and David: Students](https://student.craigndave.org/)
     * [SmartRevise](https://smartrevise.craigndave.org/) question bank system
     * [Programming with T.I.M.E.](https://craigndave.org/programming-with-time/)
-* [isaac Computer Science](https://isaaccomputerscience.org/) - A-Level (sponsored by RaspberyPi foundation + NCCE +BCS)
-    * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
-    * https://isaaccomputerscience.org/pages/workbooks_2020
-    * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
-    * [All Topics](https://isaaccomputerscience.org/topics)
-    * Assignments online? (need to sign up and investigate)
-    * [Suggested teaching order](https://isaaccomputerscience.org/teaching_order)
 * [Computing and ICT in a Nutshell](https://www.advanced-ict.info/)
     * [Computing and ICT in a Nutshell - YouTube](https://www.youtube.com/user/AdvancedICT)
-* [TeachComputing.org](https://teachcomputing.org/) Previously NCCE
-    * [KS3/KS4 Resources](https://teachcomputing.org/curriculum)
-        * [Tweet: Jennies lesson](https://twitter.com/Mrs_G33k/status/1316778655721324550)
-        * [ks4, remote](https://teachcomputing.org/courses?level=Key+stage+4&location=Remote&topic=Programming&certificate=#filter-results) search by tags
 * [stem.org.uk](https://www.stem.org.uk/) - Linked with RaspberyPi foundation and NCCE
     * [STEM Computing CPD](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
     * [STEM Resources: Secondary and A level Computing](https://www.stem.org.uk/resources/curated-collections/secondary-and-level-computing-0)
@@ -306,7 +320,18 @@ Links to other MD documents
 * [Challenges](../computing/challenges.md)
 
 
-2http://www.codeclub.org.uk/13http://www.cs4fn.org/14http://www.raspberrypi.org/15http://raspberryjam.org.uk/16http://www.technocamps.com/17https://youngrewiredstate.org/18http://www.yousrc.com/19http://www.ocr.org.uk/qualifications/by-subject/computing/raspberry-pi/20http://csunplugged.org/21http://www.codeavengers.com/22http://coderdojo.com/23http://www.csprinciples.org/24http://www.codecademy.com/25http://www.bootstrapworld.org/26http://gacomputes.cc.gatech.edu/27http://www.exploringcs.org/
+
+
+
+http://www.yousrc.com/
+http://www.ocr.org.uk/qualifications/by-subject/computing/raspberry-pi/
+http://www.codeavengers.com/
+
+http://www.csprinciples.org/ DOWN?
+http://www.codecademy.com/
+http://www.bootstrapworld.org/
+http://gacomputes.cc.gatech.edu/
+http://www.exploringcs.org/
 
 
 * [logic.ly/demo](https://logic.ly/demo) full adder and ripple counter in browser
@@ -434,10 +459,14 @@ Competitions/Gathering/Social
 * [showcode.io/VarsityCode](https://www.showcode.io/varsitycode/)
     * Represent your university in our head-to-head student coding competition
 
-* Social Events
+* Social Events - hack days - hack events - prototype events
     * [battlesnake](https://play.battlesnake.com/)
         * Write code to play snake against other code
         * [get-started](https://docs.battlesnake.com/guides/getting-started)
+    * http://raspberryjam.org.uk/
+    * http://www.technocamps.com/
+    * https://youngrewiredstate.org/
+
 
 
 ICT & Design
