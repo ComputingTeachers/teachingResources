@@ -16,7 +16,12 @@ General Teaching
 
 Teaching Computing Resources
 ----------------------------
-
+* [computerscienced.co.uk](https://computerscienced.co.uk/)
+    * All linked to OCR/AQA spec + KS3
+    * [python-blocks](https://computerscienced.co.uk/site/python-blocks/) interactive
+        * A transition from scratch to python
+    * [ismypasswordsecure.co.uk](https://ismypasswordsecure.co.uk/)
+        * Great site to raise awareness for stealing your password
 * [raspberrypi.org](https://raspberrypi.org/)
     * Teachers
         * [TeachComputing.org](https://teachcomputing.org/) Previously NCCE
@@ -95,6 +100,14 @@ Teaching Computing Resources
         * Impressively deep set of modules - suitable for concepts even up to ks5!
     * [steamlabs.ca/ai-programs](https://steamlabs.ca/ai-programs/)
         * Unplugged - [Predict a Pie with a Neural Network](https://steamlabs.ca/ai-programs/predict-a-pie/)
+    * [Teaching Machine Learning in K–12 Classroom: Pedagogical and Technological Trajectories for Artificial Intelligence Education](https://doi.org/10.1109/ACCESS.2021.3097962) 2021 Matti Tedre
+        * List of tools and how they are used in the classroom
+    * [NPA Curricular Resources](https://trello.com/b/TGMf9U4S/npa-curricular-resources)
+        * Massive list of datasets and data capture, statistics, data formats, What is data, ethics
+    * [edgeimpulse.com](https://www.edgeimpulse.com/)
+        * > Edge Impulse is the leading development platform for machine learning on edge devices, free for developers and trusted by enterprises.
+        * Build a model in 5 minutes.
+    * futurelearn [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
 * [epicpython.com](https://epicpython.com/)
     * A better way to learn Python. A fun exercise heavy approach to learning modern Python from scratch.
     * Interactive activities, quiz's, instant feedback
@@ -268,7 +281,11 @@ Teaching Computing Resources
     * [DataCamp For The Classroom](https://www.datacamp.com/groups/education) - Democratizing data science education - DataCamp is 100% free for educators. 
 * Primary
     * [csiselementary.org](https://www.csiselementary.org/) K-5
-
+* [HourOfCode.com](https://hourofcode.com/)
+    * One hour activities
+    * Good for cover lessons?
+    * I'm not overly convinced about the quality of many of these
+    
 Online Safety
 ------------
 
@@ -282,6 +299,18 @@ Online Safety
     * Apparently brilliant resources, but needs a signup
 * [HowSecureIsMyPassword.net](https://howsecureismypassword.net/)
 * [HaveIBeenPwned.com](https://haveibeenpwned.com/)
+
+
+Digital Literacy/Citisenship
+----------------
+
+* [Digital Citizenship Recommendations](http://zumpanotechlab.blogspot.com/2021/10/digital-citizenship-recommendations.html)
+* [Just Algorithms Action Group](https://www.jaag.org.uk/)
+    * Supporting Justice and Equality in tech systems
+    * Promotes teaching and learning about ethics in AI throughout society in general and computer engineers in particular.
+    * Investigates digitally enabled rule-based systems for socially unjust impacts
+    * Works for the development of practical solutions for AI ethical problems
+    * Contributes to the formation of UK government policy
 
 
 University
@@ -310,7 +339,10 @@ Professional
         * Courses for new developers
         * Courses for experienced developers
         * Courses for interview preparation
-
+* [scrimba.com](https://scrimba.com/)
+    * Interactive tasks to learn code - (I want to research this in more detail)
+* [codeamigo.dev](https://codeamigo.dev/)
+    * online tutorials with steps (similar to my TeachProgramming engineering tasks)
 
 
 Links to other MD documents
