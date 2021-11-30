@@ -14,6 +14,26 @@ General Teaching
         * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
 
 
+Computing Course Online Class Systems
+-------------------------------------
+
+* [CodeHS](https://codehs.com/) - Code Highschool
+    * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
+* [codingrooms.com](https://www.codingrooms.com/)
+    * Online whole class live coding and automarked assignemnts, pre built exercises for gcse/a-level
+* [repl.it](https://replit.com/) Education
+    * Video: [Tutorial for Teachers - How to Use Teams for Education on Replit](https://www.youtube.com/watch?v=hCgGzIUJtY4) 20min introduction
+* [Mimir Classroom](https://www.mimirhq.com/) Scale and automate your Computer Science classroom.
+    * repl.it + assignments + automated tests + plagiarism detection + student analytics
+    * [video demo](https://www.mimirhq.com/classroom/demo_video)
+* [piazza.com](https://piazza.com/) - Save time and help students learn using the power of community
+    * Questions and posts needing immediate action are highlighted
+    * Instructors endorse answers to keep the class on track
+    * Anonymous posting encourages every student to participate
+    * Highly customizable online polls
+    * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
+
+
 Teaching Computing Resources
 ----------------------------
 * [computerscienced.co.uk](https://computerscienced.co.uk/)
@@ -116,8 +136,6 @@ Teaching Computing Resources
     * primary level browser robot sequence
 * [TLCS](https://tlcs.csited.be/) (Teach and Learn Computer Science) database of CS resources categorised
     * [TLCS: A Digital Library with Resources to Teach and Learn Computer Science](https://ioinformatics.org/journal/v13_2019_3_20.pdf)
-* [CodeHS](https://codehs.com/) - Code Highschool
-    * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
 * [edu.google.com - exploring-computational-thinking](https://edu.google.com/resources/programs/exploring-computational-thinking/)
     * [Exploring Computational Thinking](https://learn.iste.org/d2l/lor/search/search_results.d2l?ou=6606&lrepos=1006)
         * [Program-Python: Theme Park Ride](https://learn.iste.org/d2l/lor/manageLO/overview.d2l?lastPage=&ou=6606&isPopup=false&loc=0&title=Program-Python%3A%20Theme%20Park%20Ride&url=https%3A//learn.iste.org/d2l/lor/viewer/view.d2l%3Fou%3D6606%26loIdentId%3D243&lorType=1&loId=313&loIdentId=243&moduleId=)
@@ -383,20 +401,6 @@ http://www.exploringcs.org/
 * Harvard University [CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - An introduction to the intellectual enterprises of computer science and the art of programming.
     * The budget! Every lecture is a stage show with top tier content and editing.
 
-Computing Course Online Class Systems
--------------------------------------
-
-* [repl.it](https://replit.com/) Education
-    * Video: [Tutorial for Teachers - How to Use Teams for Education on Replit](https://www.youtube.com/watch?v=hCgGzIUJtY4) 20min introduction
-* [Mimir Classroom](https://www.mimirhq.com/) Scale and automate your Computer Science classroom.
-    * repl.it + assignments + automated tests + plagiarism detection + student analytics
-    * [video demo](https://www.mimirhq.com/classroom/demo_video)
-* [piazza.com](https://piazza.com/) - Save time and help students learn using the power of community
-    * Questions and posts needing immediate action are highlighted
-    * Instructors endorse answers to keep the class on track
-    * Anonymous posting encourages every student to participate
-    * Highly customizable online polls
-    * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
 
 
 Passed Papers
