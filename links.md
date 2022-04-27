@@ -17,6 +17,9 @@ General Teaching
 Computing Course Online Class Systems
 -------------------------------------
 
+* [CodingBat](https://codingbat.com/)
+    * Java + Python on site
+    * Problems + Automated tests + Stars/Login(optional)
 * [CodeHS](https://codehs.com/) - Code Highschool
     * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
 * [codingrooms.com](https://www.codingrooms.com/)
@@ -32,6 +35,9 @@ Computing Course Online Class Systems
     * Anonymous posting encourages every student to participate
     * Highly customizable online polls
     * [See a Real Computer Science Class On Piazza](https://piazza.com/subjects/computer_science)
+* [codeboard.io](https://codeboard.io/) - for classrooms
+* [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python) - online ide
+* [trinket.io - tutorials - hourofpython.com](https://hourofpython.com/)
 
 
 Teaching Computing Resources
@@ -60,6 +66,8 @@ Teaching Computing Resources
             * [Suggested teaching order](https://isaaccomputerscience.org/teaching_order)
         * Research
             * [research/publications](https://www.raspberrypi.org/research/publications)
+        * [coolestprojects.org/gallery](https://online.coolestprojects.org/gallery)
+            * Showcase of young peoples computing projects
     * Learners
         * http://www.codeclub.org.uk/
         * http://coderdojo.com/
@@ -127,7 +135,10 @@ Teaching Computing Resources
     * [edgeimpulse.com](https://www.edgeimpulse.com/)
         * > Edge Impulse is the leading development platform for machine learning on edge devices, free for developers and trusted by enterprises.
         * Build a model in 5 minutes.
-    * futurelearn [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
+    * futurelearn
+        * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) - LOADS of very good courses
+            * see #pedagogy
+            * [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
 * [epicpython.com](https://epicpython.com/)
     * A better way to learn Python. A fun exercise heavy approach to learning modern Python from scratch.
     * Interactive activities, quiz's, instant feedback
@@ -185,6 +196,8 @@ Teaching Computing Resources
         * A python script to download courses from Khan Academy using youtube-dl and beautifulsoup4
 * [CS Unplugged](http://csunplugged.org/)
     * [classic resources](https://classic.csunplugged.org/)
+* [mycs-teacher](https://sites.google.com/a/sfusd.edu/mycs-teacher/unit-2/2-1)
+    * ComputerScienceForAll - most topics have an unplugged component (loops, events, variables, conditions)
 * [Teaching London Computing](https://teachinglondoncomputing.org/)
     * Activities + Cross curricular ideas
 * [Barefoot Computing KS1/KS2 resources](https://www.barefootcomputing.org/primary-computing-resources)
@@ -212,6 +225,7 @@ Teaching Computing Resources
 * [CyberGames](https://cybergamesuk.com/) Cyber Security Challenge NCA (National Crime Agency) 
     * [Network Topologies](https://cybergamesuk.com/topologies)
 * [SQL Police Department Exercises](https://sqlpd.com/)
+* [animatesql.com](https://animatesql.com/) - sql visualiser
 * [The Coding Train](https://thecodingtrain.com/)
     * Coding Challenges, AI, Algorithmic Art, ServerSide
     * [Youtube channel](https://www.youtube.com/c/TheCodingTrain/about) YouTube video channel
@@ -270,6 +284,10 @@ Teaching Computing Resources
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
         * [python introduction](https://brilliant.org/courses/programming-python/#chapter-introduction-28)
+* FutureLearn
+    * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) (reference under #pedagogy and #ai too)
+        * [Networking with Python: Socket Programming for Communication](https://www.futurelearn.com/courses/networking-with-python-socket-programming-for-communication)
+        * loads more - directed at teachers and students
 * [Better Explained](https://betterexplained.com/)
     * Maths and some computing visual guides
 * [github.com/microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
@@ -387,6 +405,8 @@ http://www.exploringcs.org/
 * [logic.ly/demo](https://logic.ly/demo) full adder and ripple counter in browser
 * [simulator.io](https://simulator.io) Build and simulate logic circuits in browser
 
+* [Iltis](https://iltis.cs.tu-dortmund.de/): Learning Logic in the Web
+
 * [NetSimK](http://netsimk.com/) - The ultimate aid to teaching and learning Cisco™ Routers
     * Each student works individually, with as many devices as required. 
 
@@ -438,6 +458,8 @@ Pedagogy
     * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) Courses
         * [Improving Computing Classroom Practice Through Action Research](https://www.futurelearn.com/courses/improving-computing-classroom-practice-through-action-research)
             * Learn how to run your own action research project to improve the computing pedagogy and practices in your classroom.
+        * [Impact of Technology: How To Lead Classroom Discussions](https://www.futurelearn.com/courses/impact-of-technology)
+        * [An Introduction to Computer Networking for Teachers](https://www.futurelearn.com/courses/introduction-to-networking)
         * [Programming Pedagogy in Secondary Schools: Inspiring Computing Teaching](https://www.futurelearn.com/courses/secondary-programming-pedagogy)
 * [CAS - Computational Thinking - A guide for teachers](https://community.computingatschool.org.uk/files/8550/original.pdf)
 
