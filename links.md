@@ -38,6 +38,8 @@ Computing Course Online Class Systems
 * [codeboard.io](https://codeboard.io/) - for classrooms
 * [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python) - online ide
 * [trinket.io - tutorials - hourofpython.com](https://hourofpython.com/)
+* [pencilcode.net](https://pencilcode.net/) - browser animated turtle
+    * Learn professional programming languages using an editor that lets you work in either blocks or text. Create art, music, games, and stories. Or invent a program that will change the world. 
 
 
 Teaching Computing Resources
@@ -111,6 +113,7 @@ Teaching Computing Resources
         * Create models and pre-trained models
         * [Dale Lane](https://dalelane.co.uk/blog/?tag=mlforkids-tech) creator, sponsored by IBM
         * [book](https://www.amazon.co.uk/Machine-Learning-Kids-Project-Based-Introduction/dp/1718500564/) - project based introduction to artificial intelligence
+    * Raspberry Pi Foundation - [Try our new free machine learning projects for Scratch](https://www.raspberrypi.org/blog/free-machine-learning-projects-for-scratch/)
     * [Dancing with AI - Designing Interactive AI Systems](https://dancingwithai.media.mit.edu/) - Scratch blocks with curriculum
     * [Scratch Lab - Face Sensing](https://lab.scratch.mit.edu/face/)
     * [Coded Bias - Documentary](https://www.codedbias.com/)
@@ -379,6 +382,8 @@ Professional
     * Interactive tasks to learn code - (I want to research this in more detail)
 * [codeamigo.dev](https://codeamigo.dev/)
     * online tutorials with steps (similar to my TeachProgramming engineering tasks)
+* [pluralsight](https://www.pluralsight.com/)
+    * Company modules and monitoring of staff/cohort progress
 
 
 Links to other MD documents
@@ -546,7 +551,14 @@ Unsorted
     * A formal methods toolkit for model-based development of human-machine interfaces
 
 
-
+* [#caschat floppy awards 2021](https://www.teachwithict.com/floppys21.html)
+    * Best #computing community / forum
+    * Best #computing blog / website
+    * Best 'FREE' #computing resource
+    * Best 'Paid for' #computing resource
+    * Best 'FREE' #computing software or app
+    * Best #computing related tech
+    * Best #computing book / magazine
 
 
 
