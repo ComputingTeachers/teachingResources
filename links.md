@@ -44,6 +44,11 @@ Computing Course Online Class Systems
 
 Teaching Computing Resources
 ----------------------------
+
+* [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
+    * Interactives and Teacher plans
+    * [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773)
+        * "Packet Attack"
 * [computerscienced.co.uk](https://computerscienced.co.uk/)
     * All linked to OCR/AQA spec + KS3
     * [python-blocks](https://computerscienced.co.uk/site/python-blocks/) interactive
@@ -75,6 +80,9 @@ Teaching Computing Resources
         * http://coderdojo.com/
         * https://codeclubworld.org/
             * Gamerfied learning program (mario world esq graphics)
+* raspberrypi.org [code.club](https://projects.raspberrypi.org/en/codeclub)
+    * Discover our projects and paths - (extra curricular for primary -> secondary)
+    * challenges across schools
 * [the.computing.cafe](https://the.computing.cafe/) - learn computing - @compinsch Mr Mills
 * [csteachingtips.org](https://www.csteachingtips.org/)
     * Posters for teaching CS
@@ -105,6 +113,8 @@ Teaching Computing Resources
     * [The Most Likely Machine](https://www.artefactgroup.com/case-studies/most-likely-machine/) - Helping children develop algorithmic literacy
         * A visual hands-on learning module to get algorithm savvy
 * AI
+    * [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com/)
+        * [experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
     * [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/)
         * Teach a computer to play a game
         * Scratch, Python, Appinventor
@@ -129,6 +139,8 @@ Teaching Computing Resources
     * [Best K-12 Resources to Teach AI Ethics](https://medium.com/fair-bytes/best-resources-to-teach-ai-ethics-in-the-k-12-classroom-a801e00839d5) - Curricula, projects, and even fiction books to empower students to learn about AI ethics
     * [Middle School AI](https://raise.mit.edu/daily/index.html)
         * Impressively deep set of modules - suitable for concepts even up to ks5!
+    * [aiunplugged.org](https://www.aiunplugged.org/)
+        * Unlpugged KS3 appropriate school activities
     * [steamlabs.ca/ai-programs](https://steamlabs.ca/ai-programs/)
         * Unplugged - [Predict a Pie with a Neural Network](https://steamlabs.ca/ai-programs/predict-a-pie/)
     * [Teaching Machine Learning in K–12 Classroom: Pedagogical and Technological Trajectories for Artificial Intelligence Education](https://doi.org/10.1109/ACCESS.2021.3097962) 2021 Matti Tedre
@@ -142,6 +154,7 @@ Teaching Computing Resources
         * [Raspberry Pi Foundation](https://www.futurelearn.com/partners/raspberry-pi) - LOADS of very good courses
             * see #pedagogy
             * [Introduction to Machine Learning and AI](https://www.futurelearn.com/courses/introduction-to-machine-learning)
+    * [appsforgood.org/courses/machine-learning](https://www.appsforgood.org/courses/machine-learning)
 * [epicpython.com](https://epicpython.com/)
     * A better way to learn Python. A fun exercise heavy approach to learning modern Python from scratch.
     * Interactive activities, quiz's, instant feedback
@@ -170,9 +183,13 @@ Teaching Computing Resources
         * Game builder
     * [Courses](https://studio.code.org/courses)
         * [Computer Science Principles - Course](https://studio.code.org/courses/csp-2020) for K12 CS
+        * Lesson plans for lots of computing
+            * [Unplugged - Internet](https://www.youtube.com/watch?v=Zs26JgnWbTE) 1min video preview of lesson
 * [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
     * [WikiBooks: A-level Computing/AQA 2009 spec](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA)
 * [Diagnostic Questions: Project Quantum - Computer Science Questions bank from bcs](https://diagnosticquestions.com/quantum)
+* [educake.co.uk/subject/computer-science](https://www.educake.co.uk/subject/computer-science)
+    * Banks for online computing questions
 * [Craig and David: Teachers](https://craigndave.org/)
     * [Craig and David: Students](https://student.craigndave.org/)
     * [SmartRevise](https://smartrevise.craigndave.org/) question bank system
@@ -393,7 +410,7 @@ Links to other MD documents
 * [Challenges](../computing/challenges.md)
 
 
-
+[LeekWars](https://leekwars.com/) - Game to learn AI - guns and stuff
 
 
 http://www.yousrc.com/
@@ -516,7 +533,10 @@ Competitions/Gathering/Social
     * [UK Bebras](https://challenge.bebras.uk/) - Algorithmic Code Challenges for primary and secondary
         * National competition
 * [British Informatics Olympiad](https://www.olympiad.org.uk/)
-    * National computing competition for schools and colleges. 
+    * National computing competition for schools and colleges.
+* [codingcompetition.org](https://codingcompetition.org/)
+    * meeting required standards of British Science Association CREST Awards
+    * Discovery level at KS2 and Bronze level at KS3! – For more info see our FAQ’s!
 * [International Olympiad in Informatics](https://ioinformatics.org/)
     * Lots of journals and papers
 * [showcode.io/VarsityCode](https://www.showcode.io/varsitycode/)
