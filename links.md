@@ -13,10 +13,17 @@ General Teaching
     * AfL Toolkit
         * [AfL Tookkit](https://www.slideshare.net/caldiesschool/tl-assessment-for-learning-tools) old - but web visible
 
+* [carousel-learning.com](https://www.carousel-learning.com/)
+    * [Carousel in under 5 minutes (almost)](https://www.youtube.com/watch?v=kj4OhA4Bct4) YouTube 5min teacher flow
+    * Homework?
+
+
 
 Computing Course Online Class Systems
 -------------------------------------
 
+* [live.withcode.uk](https://live.withcode.uk/)
+    * See more `withcode.uk` in this document
 * [CodingBat](https://codingbat.com/)
     * Java + Python on site
     * Problems + Automated tests + Stars/Login(optional)
@@ -39,12 +46,39 @@ Computing Course Online Class Systems
 * [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python) - online ide
 * [trinket.io - tutorials - hourofpython.com](https://hourofpython.com/)
 * [pencilcode.net](https://pencilcode.net/) - browser animated turtle
-    * Learn professional programming languages using an editor that lets you work in either blocks or text. Create art, music, games, and stories. Or invent a program that will change the world. 
+    * Learn professional programming languages using an editor that lets you work in either blocks or text. Create art, music, games, and stories. Or invent a program that will change the world.
+* [codeforlife.education](https://www.codeforlife.education/teach/#)
+    * Online blockly computing (primary)
+
+
+IDE
+---
+
+* [Thonny](https://thonny.org/) - Python IDE for beginners
+    * Shows scope and highlights (strangely no line numbers by default?)
+
+Wider
+-----
+
+* [inspiring Digital Enterprise Award (iDEA)](https://idea.org.uk/)
+    * Online videos and activities that lead to badges and certificates
+    * > The Inspiring Digital Enterprise Award, known as iDEA, is an international award winning programme that helps you develop and demonstrate your digital, enterprise and employability skills for free.
+    * Topics: Blockchain, Social Media, Growth Hacking, Data Visualisation, eSafety, GDPR, Digital Ethics, What is 'The Cloud', Automation
+    
 
 
 Teaching Computing Resources
 ----------------------------
 
+* Stanford [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+    * [IntroComputing.org](https://introcomputing.org/)
+        * Free materials for teaching the essential qualities of computers using little snippets of code in the browser.
+        * materials are based on Nick Parlante's Stanford CS101 course
+    * Really impressive tasks in browser
+        * [Image-5 Puzzles](https://web.stanford.edu/class/cs101/image-5-puzzles.html) hidden data in rgb image - green and blue are random noise, red is the image, divided by 10
+        * [Image-9 Bluescreen](https://web.stanford.edu/class/cs101/image-9-bluescreen.html) Blue screen - monkey/moon
+        * [Table-1 Data](https://web.stanford.edu/class/cs101/table-1-data.html) baby name data tasks - loops and ifs over csv
+* (Undergraduate) MIT [OpenCourseWare Computer Science](https://ocw.mit.edu/search/?t=Computer%20Science) #MITOpenCourseWare
 * [Computer Science Field Guide](https://www.csfieldguide.org.nz/en/) - An online interactive resource for high school students learning about computer science. 
     * Interactives and Teacher plans
     * [A game to teach network communication reliability problems and solutions](https://dl.acm.org/doi/10.1145/2670757.2670773)
@@ -68,6 +102,7 @@ Teaching Computing Resources
             * A Department for Education project, part of the National Centre for Computing Education and created by the University of Cambridge and the Raspberry Pi Foundation.
             * https://isaaccomputerscience.org/pages/workbooks_2020
             * [AQA Workbook](https://isaaccomputerscience.org/books/workbook_20_aqa)
+            * [GCSE Workbook](https://isaaccomputerscience.org/pages/workbook_download?examBoard=all&stage=all)
             * [All Topics](https://isaaccomputerscience.org/topics)
             * Assignments online? (need to sign up and investigate)
             * [Suggested teaching order](https://isaaccomputerscience.org/teaching_order)
@@ -177,6 +212,9 @@ Teaching Computing Resources
 * [PG Online - Computer Science](https://www.pgonline.co.uk/resources/computer-science/)
     * KS3 + All exam boards resources (Paid for teacher resources)
 * [code.org](https://code.org/)
+    * Lesson plans and online videos/resources/code-environment
+        * [Lesson 1: Dance Party](https://studio.code.org/s/dance-2019/lessons/1)
+            * Scratch like interface to make cats dance
     * Browser based environments
         * [AppLab](https://studio.code.org/projects/applab/) Browser based app builder
         * Artist (logo clone)
@@ -277,6 +315,8 @@ Teaching Computing Resources
     * [live.withcode.uk](https://live.withcode.uk/)
         * video lessons and exercises
         * [python - live graphics - snowflakes](https://create.withcode.uk/python/CRX)
+    * [compete.withcode.uk](http://compete.withcode.uk/)
+        * Competitive code challenges (across schools) - see live.withcode above
     * [blog.withcode.uk](https://blog.withcode.uk/)
         * python lessons
         * [RPi GPIO python simulator](https://blog.withcode.uk/2016/10/rpi-gpio-python-simulator/)
@@ -285,6 +325,7 @@ Teaching Computing Resources
         * [Making computing accessible for all](https://blog.withcode.uk/2016/05/making-computing-accessible-for-all/2/)
             * tips on lesson structure
         * [KPRIDE](https://create.withcode.uk/kpride/)
+
 * [w3schools](https://www.w3schools.com/)
     * Interactive tryit in browser for a range of languages
     * python, c#, java, javascript exercise (mini questions with text box's)
@@ -341,7 +382,7 @@ Teaching Computing Resources
     * One hour activities
     * Good for cover lessons?
     * I'm not overly convinced about the quality of many of these
-    
+
 Online Safety
 ------------
 
@@ -451,6 +492,8 @@ Passed Papers
 * [theallpapers.com](https://www.theallpapers.com/)
 * [revisionworld.com ocr pasted papers](https://revisionworld.com/gcse-revision/ict/past-papers/ocr-gcse-computer-science-past-papers)
 * [GCSE Computer Science Past Papers](https://mathsmadeeasy.co.uk/gcse-computer-science/gcse-computer-science-past-papers/)
+* XXX
+
 
 SEND
 ----
@@ -534,6 +577,8 @@ Competitions/Gathering/Social
         * National competition
 * [British Informatics Olympiad](https://www.olympiad.org.uk/)
     * National computing competition for schools and colleges.
+* [compete.withcode.uk](http://compete.withcode.uk/)
+    * Inter school online activities and ranking
 * [codingcompetition.org](https://codingcompetition.org/)
     * meeting required standards of British Science Association CREST Awards
     * Discovery level at KS2 and Bronze level at KS3! – For more info see our FAQ’s!
