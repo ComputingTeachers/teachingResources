@@ -49,13 +49,23 @@ Computing Course Online Class Systems
     * Learn professional programming languages using an editor that lets you work in either blocks or text. Create art, music, games, and stories. Or invent a program that will change the world.
 * [codeforlife.education](https://www.codeforlife.education/teach/#)
     * Online blockly computing (primary)
+* [csacademy.com](https://csacademy.com/)
+    * Algorithum and interview tasks
+    * [app/graph_editor](https://csacademy.com/app/graph_editor/)
 
+TODO:
+* [Looking for alternatives to Scratch?](https://www.educationalappstore.com/blog/alternatives-to-scratch/)
+* [UCL: Scratch Maths 3](https://www.ucl.ac.uk/ioe/research/projects/ucl-scratchmaths/publications-and-reports)
 
 IDE
 ---
 
-* [Thonny](https://thonny.org/) - Python IDE for beginners
-    * Shows scope and highlights (strangely no line numbers by default?)
+* Local
+    * [Thonny](https://thonny.org/) - Python IDE for beginners
+        * Shows scope and highlights (strangely no line numbers by default?)
+* Online
+    * [hatchxr.com](https://hatchxr.com/) AR VR, Blocks + javascript
+
 
 Wider
 -----
@@ -69,7 +79,9 @@ Wider
 
 Teaching Computing Resources
 ----------------------------
-
+* https://www.learncomputing.org/
+    * Full KS3/KS4/KS5 lesson plans
+* [ADA Computer Science](https://adacomputerscience.org/)
 * Stanford [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
     * [IntroComputing.org](https://introcomputing.org/)
         * Free materials for teaching the essential qualities of computers using little snippets of code in the browser.
@@ -96,6 +108,8 @@ Teaching Computing Resources
                 * [Tweet: Jennies lesson](https://twitter.com/Mrs_G33k/status/1316778655721324550)
                 * [ks4, remote](https://teachcomputing.org/courses?level=Key+stage+4&location=Remote&topic=Programming&certificate=#filter-results) search by tags
                     * [year 8 Mobile app development](https://teachcomputing.org/curriculum/key-stage-3/mobile-app-development)
+                * [KS4 Networks](https://teachcomputing.org/curriculum/key-stage-4/networks)
+                    * Unit of work with PacketTracer
         * [projects.raspberrypi.org](https://projects.raspberrypi.org/)
                 * 200+ projects for scratch, python, microbit, 3dprinting, mobileapps - amazing and creative
         * [isaac Computer Science](https://isaaccomputerscience.org/) - A-Level (sponsored by RaspberyPi foundation + NCCE +BCS)
@@ -108,6 +122,7 @@ Teaching Computing Resources
             * [Suggested teaching order](https://isaaccomputerscience.org/teaching_order)
         * Research
             * [research/publications](https://www.raspberrypi.org/research/publications)
+            * [Computing education research seminars: Seminar publications](https://www.raspberrypi.org/computing-education-research-online-seminars/seminar-publications/) - Accessible open research papers in compendiums
         * [coolestprojects.org/gallery](https://online.coolestprojects.org/gallery)
             * Showcase of young peoples computing projects
     * Learners
@@ -159,6 +174,14 @@ Teaching Computing Resources
         * [Dale Lane](https://dalelane.co.uk/blog/?tag=mlforkids-tech) creator, sponsored by IBM
         * [book](https://www.amazon.co.uk/Machine-Learning-Kids-Project-Based-Introduction/dp/1718500564/) - project based introduction to artificial intelligence
     * Raspberry Pi Foundation - [Try our new free machine learning projects for Scratch](https://www.raspberrypi.org/blog/free-machine-learning-projects-for-scratch/)
+    * [experience-ai.org/units/experience-ai-lessons](https://experience-ai.org/units/experience-ai-lessons) raspberry pi foundation
+        * help introduce AI to KS3 students (aged 11–14)
+        * Lesson 1: What is AI?
+        * Lesson 2: How computers learn from data
+        * Lesson 3: Bias in bias out
+        * Lesson 4: Decision trees
+        * Lesson 5: Solving problems with ML models
+        * Lesson 6: Model cards and careers
     * [Dancing with AI - Designing Interactive AI Systems](https://dancingwithai.media.mit.edu/) - Scratch blocks with curriculum
     * [Scratch Lab - Face Sensing](https://lab.scratch.mit.edu/face/)
     * [Coded Bias - Documentary](https://www.codedbias.com/)
@@ -219,10 +242,15 @@ Teaching Computing Resources
         * [AppLab](https://studio.code.org/projects/applab/) Browser based app builder
         * Artist (logo clone)
         * Game builder
+        * [NetSim](https://studio.code.org/s/netsim/) Network simulator online with exercises
     * [Courses](https://studio.code.org/courses)
         * [Computer Science Principles - Course](https://studio.code.org/courses/csp-2020) for K12 CS
         * Lesson plans for lots of computing
             * [Unplugged - Internet](https://www.youtube.com/watch?v=Zs26JgnWbTE) 1min video preview of lesson
+* [CS4G NetSim](https://netsim.erinn.io/)
+    * Browser Network simulator with exercise
+    * requires trivial username and password login setup
+    * [github.com/errorinn/netsim](https://github.com/errorinn/netsim)
 * [WikiBooks: A-level Computing/AQA 2015 spec](https://en.wikibooks.org/wiki/A-level_Computing/AQA)
     * [WikiBooks: A-level Computing/AQA 2009 spec](https://en.wikibooks.org/wiki/A-level_Computing_2009/AQA)
 * [Diagnostic Questions: Project Quantum - Computer Science Questions bank from bcs](https://diagnosticquestions.com/quantum)
@@ -238,6 +266,8 @@ Teaching Computing Resources
     * [STEM Computing CPD](https://www.stem.org.uk/cpd/search?f[0]=field_subject:92)
     * [STEM Resources: Secondary and A level Computing](https://www.stem.org.uk/resources/curated-collections/secondary-and-level-computing-0)
     * https://www.stem.org.uk/resources/community/collection/45430/gcse-computer-science
+    * [GCSE Computer Networks](https://www.stem.org.uk/resources/community/collection/399693/gcse-computer-networks)
+        * Collection of resources for teaching networks, both unplugged and via network simulators
 * [Teaching London Computing: CPD](https://teachinglondoncomputing.org/cpd-courses/)
     * [ks3](https://teachinglondoncomputing.org/ks3-computing/)
     * [gcse](https://teachinglondoncomputing.org/cpd-courses/for-gcse-computing/)
@@ -382,6 +412,14 @@ Teaching Computing Resources
     * One hour activities
     * Good for cover lessons?
     * I'm not overly convinced about the quality of many of these
+* [everydaycomputing.org](http://everydaycomputing.org/)
+    * project which seeks to understand how to integrate computational thinking into elementary mathematics. 
+    * Action Fractions (crossing computing with Maths)
+* [digitalschoolhouse.org.uk](https://www.digitalschoolhouse.org.uk/resources)
+    * Nintendo, Sega, UbiSoft collaborated on curriculum relevant resources for schools
+* Network Simulators
+    * https://studio.code.org/s/netsim/
+
 
 Online Safety
 ------------
@@ -393,7 +431,18 @@ Online Safety
 * [First to a Million Videos](https://www.thinkuknow.co.uk/professionals/resources/first-to-a-million/)
     * Interactive video about digital permanence a bunch of kids race to 1million views
 * [Project Evolve](https://projectevolve.co.uk/)
+    * > ProjectEVOLVE resources each of the 330 statements from UK Council for Internet Safety's (UKCIS) framework “Education for a Connected World” with perspectives; research; activities; outcomes; supporting resources and professional development materials. 
     * Apparently brilliant resources, but needs a signup
+    * 8 Strands
+        1. Self image and identity
+        2. Online Relationships
+        3. Online Bullying
+        4. Copyright and Ownership
+        5. Online Reputation
+        6. Managing online information
+        7. Privacy and Security
+        8. Health Wellbeing and lifestyle
+    * Keywords + Objectives + Criteria
 * [HowSecureIsMyPassword.net](https://howsecureismypassword.net/)
 * [HaveIBeenPwned.com](https://haveibeenpwned.com/)
 
@@ -577,6 +626,9 @@ Competitions/Gathering/Social
         * National competition
 * [British Informatics Olympiad](https://www.olympiad.org.uk/)
     * National computing competition for schools and colleges.
+* [Western-European Olympiad in Informatics](https://weoi.org/)
+* [csacademy.com](https://csacademy.com/)
+    * Live group algorithum contests and live interviews
 * [compete.withcode.uk](http://compete.withcode.uk/)
     * Inter school online activities and ranking
 * [codingcompetition.org](https://codingcompetition.org/)
