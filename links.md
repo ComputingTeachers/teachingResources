@@ -356,6 +356,12 @@ Teaching Computing Resources
             * tips on lesson structure
         * [KPRIDE](https://create.withcode.uk/kpride/)
 
+* [editor.raspberrypi.org](https://editor.raspberrypi.org/en/)
+    * Python and HTML
+* [creaticode.com](https://www.creaticode.com/)
+    * Scratch + 3D + VR + AI + Self paced learning activities
+* [CodeLab](https://www.turingscraft.com/)
+    * hundreds of tried and tested exercises with feedback and auto marking - links to blackboard
 * [w3schools](https://www.w3schools.com/)
     * Interactive tryit in browser for a range of languages
     * python, c#, java, javascript exercise (mini questions with text box's)
