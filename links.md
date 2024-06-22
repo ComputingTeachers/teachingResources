@@ -312,8 +312,10 @@ Teaching Computing Resources
             * [Trace Tables](https://filestore.aqa.org.uk/resources/computing/AQA-8520-TG-TT.PDF)
 * [CyberGames](https://cybergamesuk.com/) Cyber Security Challenge NCA (National Crime Agency) 
     * [Network Topologies](https://cybergamesuk.com/topologies)
-* [SQL Police Department Exercises](https://sqlpd.com/)
-* [animatesql.com](https://animatesql.com/) - sql visualiser
+* SQL
+    * [SQL Police Department Exercises](https://sqlpd.com/)
+    * [SQL Murder Mystery](https://mystery.knightlab.com/walkthrough.html) - Can you find out whodunnit?
+    * [animatesql.com](https://animatesql.com/) - sql visualiser
 * [The Coding Train](https://thecodingtrain.com/)
     * Coding Challenges, AI, Algorithmic Art, ServerSide
     * [Youtube channel](https://www.youtube.com/c/TheCodingTrain/about) YouTube video channel
