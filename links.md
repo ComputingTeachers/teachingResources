@@ -313,9 +313,26 @@ Teaching Computing Resources
 * [CyberGames](https://cybergamesuk.com/) Cyber Security Challenge NCA (National Crime Agency) 
     * [Network Topologies](https://cybergamesuk.com/topologies)
 * SQL
-    * [SQL Police Department Exercises](https://sqlpd.com/)
-    * [SQL Murder Mystery](https://mystery.knightlab.com/walkthrough.html) - Can you find out whodunnit?
+    * [Learning SQL from within: integrating database exercises into the database itself](https://arxiv.org/abs/2410.16120)
+        * [SQL Noir](https://www.sqlnoir.com/) - Solve mysteries through SQL
+            * [Hacker News Comments](https://news.ycombinator.com/item?id=43041827)
+        * [SQL Police Department Exercises](https://sqlpd.com/)
+        * [SQL Murder Mystery](https://mystery.knightlab.com/walkthrough.html) - Can you find out whodunnit?
+            * an undirected, essentially standalone adventure
+        * SQL Island (https://sql-island.informatik.uni-kl.de)
+        * [SQLab](https://github.com/laowantong/sqlab)
+            * a SQL game engine that allows you to augment an arbitrary base with exercises on that base to produce directed, standalone adventures
+                * download a dump of the database (currently MySQL, SQLite, Postgres)
+                * play under any administrator interface.
     * [animatesql.com](https://animatesql.com/) - sql visualiser
+
+
+reply
+	
+	
+frontalier 1 hour ago | parent | next [–]
+
+https://sqlbolt.com, https://regexone.com, https://pgexercises.com
 * [The Coding Train](https://thecodingtrain.com/)
     * Coding Challenges, AI, Algorithmic Art, ServerSide
     * [Youtube channel](https://www.youtube.com/c/TheCodingTrain/about) YouTube video channel
